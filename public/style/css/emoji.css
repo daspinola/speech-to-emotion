@@ -1,0 +1,31 @@
+.emoji img {
+  width: 100px;
+}
+
+.emoji .error {
+  content:url("../images/error.png")
+}
+
+.emoji .idle {
+  content:url("../images/idle.png")
+}
+
+.emoji .listening {
+  content:url("../images/listening.png")
+}
+
+.emoji .negative {
+  content:url("../images/negative.png")
+}
+
+.emoji .neutral {
+  content:url("../images/neutral.png")
+}
+
+.emoji .positive {
+  content:url("../images/positive.png")
+}
+
+.emoji .searching {
+  content:url("../images/searching.png")
+}
