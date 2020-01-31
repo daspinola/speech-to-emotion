@@ -1,6 +1,6 @@
 # Speech to emotion
 
-Speech to the microphone and get a reaction if your sentence was positive, neutral or negative
+Speak to the microphone and get a reaction if your sentence was positive, neutral or negative
 
 ## Make it run
 
